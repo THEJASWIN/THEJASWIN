@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thejaswin K</h1>
 <h3 align="center">A passionate Data Scientist/Machine Learning Developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin" alt="thejaswin" /></a> </p>
 - 🌱 I’m currently learning **Docker, Cloud, Big Data, Database's**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
